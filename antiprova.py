@@ -1,1 +1,0 @@
-print('BEHOLD THE CHEESEENATOR\!')
